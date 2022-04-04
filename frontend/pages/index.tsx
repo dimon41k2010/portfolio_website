@@ -17,7 +17,7 @@ const index = () => {
         I'm currently pursuing B.Tech Degree(Final Year) in Computer Science
         Engineering from Academy of Technology. I have 3+ years of experience in
         Web Development and I have a Youtube Channel where I teach Full Stack
-        Development
+        Development.
       </h5>
       <div
         className="flex-grow p-4 mt-5 bg-gray-400 dark:bg-dark-100"
